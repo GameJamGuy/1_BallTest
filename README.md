@@ -1,6 +1,7 @@
 # 1_BallTest
-minimalist working ball rolling test
-Basically the Roll a Ball tutorial from Unity
+minimalist working  test of ball action
+
+tags:
 
 OpenDev
 opendev@gmx.net
